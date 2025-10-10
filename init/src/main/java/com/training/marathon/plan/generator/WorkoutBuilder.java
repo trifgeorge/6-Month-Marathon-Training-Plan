@@ -3,10 +3,10 @@ package com.training.marathon.plan.generator;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.model.WorkoutStep;
 import com.training.marathon.plan.util.Constants;
 import com.training.marathon.plan.util.StepDuration;
 import com.training.marathon.plan.util.StepTarget;
-import com.training.marathon.plan.util.WorkoutStep;
 
 public class WorkoutBuilder {
 

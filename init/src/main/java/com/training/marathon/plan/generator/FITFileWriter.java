@@ -16,10 +16,10 @@ import com.garmin.fit.WktStepTarget;
 import com.garmin.fit.WorkoutMesg;
 import com.garmin.fit.WorkoutStepMesg;
 import com.model.Workout;
-import com.model.WorkoutType;
+import com.model.WorkoutStep;
 import com.training.marathon.plan.util.StepDuration;
 import com.training.marathon.plan.util.StepTarget;
-import com.training.marathon.plan.util.WorkoutStep;
+import com.training.marathon.plan.util.WorkoutType;
 
 public class FITFileWriter {
 

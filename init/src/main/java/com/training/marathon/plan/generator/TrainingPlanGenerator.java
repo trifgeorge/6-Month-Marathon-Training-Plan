@@ -3,18 +3,16 @@ package com.training.marathon.plan.generator;
 import java.util.List;
 
 import com.model.Workout;
-import com.model.WorkoutType;
+import com.model.WorkoutStep;
 import com.training.marathon.plan.util.Constants;
-import com.training.marathon.plan.util.WorkoutStep;
+import com.training.marathon.plan.util.WorkoutType;
 
 public class TrainingPlanGenerator {
 
-    private String outputDirectory;
     private FITFileWriter fitWriter;
     private WorkoutBuilder workoutBuilder;
 
     public TrainingPlanGenerator(String outputDirectory) {
-        this.outputDirectory = outputDirectory;
         this.fitWriter = new FITFileWriter(outputDirectory);
         this.workoutBuilder = new WorkoutBuilder();
     }

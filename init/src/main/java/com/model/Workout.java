@@ -1,5 +1,7 @@
 package com.model;
 
+import com.training.marathon.plan.util.WorkoutType;
+
 /**
  * Represents a single workout in the training plan
  */

@@ -1,4 +1,4 @@
-package com.model;
+package com.training.marathon.plan.util;
 
 public enum WorkoutType {
         EASY_RUN,

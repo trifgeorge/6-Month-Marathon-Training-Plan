@@ -1,4 +1,7 @@
-package com.training.marathon.plan.util;
+package com.model;
+
+import com.training.marathon.plan.util.StepDuration;
+import com.training.marathon.plan.util.StepTarget;
 
 public class WorkoutStep {
 

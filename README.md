@@ -1,4 +1,3 @@
-# 6-Month-Marathon-Training-Plan
 # 26-Week Marathon Training Plan
 From 10-15km/week to Marathon Ready
 

@@ -42,9 +42,23 @@ From 10-15km/week to Marathon Ready
 *Intervals:* Run hard for 1km, recover for 2-3 minutes at easy jog, repeat.
 
 ### Phase 3: Peak Training (Weeks 17-22)
-**Goal:** Reach peak mileage and complete longest training runs
 
-| Week | Mon  | Tue      | Wed            | Thu  | Fri          | Sat        | Sun  | Total |
-|-------|-------|----------|----------------|-------|--------------|------------|-------|-------|
-| 17    | Rest  | 9km easy | 14km tempo     | Rest  | 5km shakeout | 30km long  | Rest  | 58km  |
-| 18    | Rest  | 10km easy| 8x1km intervals|       |              |            |       |       |
+| Week | Mon  | Tue         | Wed                | Thu  | Fri          | Sat         | Sun  | Total    |
+|-------|------|-------------|--------------------|------|--------------|-------------|------|----------|
+| 17    | Rest | 9km easy    | 14km tempo (10km @ tempo) | Rest | 5km shakeout | 30km long   | Rest | 58km     |
+| 18    | Rest | 10km easy   | 8x1km intervals    | Rest | 6km shakeout | 32km long   | Rest | 62km 🏆  |
+| 19    | Rest | 10km easy   | 14km tempo (10km @ tempo) | Rest | 6km shakeout | 30km long   | Rest | 60km     |
+| 20    | Rest | 8km easy    | 12km easy          | Rest | 4km shakeout | 24km long   | Rest | 48km ⭐  |
+| 21    | Rest | 9km easy    | 13km tempo (9km @ tempo)  | Rest | 5km shakeout | 28km long   | Rest | 55km     |
+| 22    | Rest | 8km easy    | 12km tempo (8km @ tempo)  | Rest | 5km shakeout | 25km long   | Rest | 50km     |
+
+🏆 = Peak week | ⭐ = Recovery week
+
+### Phase 4: Taper (Weeks 23-26)
+
+| Week | Mon  | Tue         | Wed                      | Thu  | Fri          | Sat         | Sun         | Total      |
+|-------|------|-------------|--------------------------|------|--------------|-------------|-------------|------------|
+| 23    | Rest | 8km easy    | 10km tempo (6km @ tempo) | Rest | 4km shakeout | 20km long   | Rest        | 42km       |
+| 24    | Rest | 7km easy    | 8km tempo (5km @ tempo)  | Rest | 4km shakeout | 16km long   | Rest        | 35km       |
+| 25    | Rest | 6km easy    | 8km easy + strides       | Rest | 2km shakeout | 12km easy   | Rest        | 28km       |
+| 26    | Rest | 5km easy    | 3km easy                 | Rest | 3km shakeout | Rest        | 42.2km RACE! 🎉 | 53km       |

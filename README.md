@@ -1,5 +1,4 @@
 # 26-Week Marathon Training Plan
-From 10-15km/week to Marathon Ready
 
 ## Overview
 - Goal: Complete a marathon in 6 months
@@ -62,3 +61,64 @@ From 10-15km/week to Marathon Ready
 | 24    | Rest | 7km easy    | 8km tempo (5km @ tempo)  | Rest | 4km shakeout | 16km long   | Rest        | 35km       |
 | 25    | Rest | 6km easy    | 8km easy + strides       | Rest | 2km shakeout | 12km easy   | Rest        | 28km       |
 | 26    | Rest | 5km easy    | 3km easy                 | Rest | 3km shakeout | Rest        | 42.2km RACE! 🎉 | 53km       |
+
+## Calculated Heart Rate Zones
+
+Using the more accurate Karvonen Formula (which uses your Heart Rate Reserve), here are your suggested BPM ranges.
+
+### Easy / Recovery Runs
+*(Your Tuesday, Friday, Recovery Week runs)*
+
+- **Purpose:** Build aerobic base, promote recovery, train your body to burn fat for fuel
+- **Feel:** You can hold a full conversation easily
+- **Karvonen Zone:** 60-70% of Heart Rate Reserve
+- **Your BPM Range:** **137 - 149 BPM**
+
+### Long Runs
+*(Your Saturday runs)*
+
+- **Purpose:** Build endurance and mental stamina. These should start easy and can progress to a "steady" effort in the later miles
+- **Feel:** Conversational, but you'll be grateful for breaks in the conversation
+- **Karvonen Zone:** 70-80% of Heart Rate Reserve
+- **Your BPM Range:** **149 - 161 BPM**
+  - *Start at the lower end of this range and let it drift up naturally*
+
+### Tempo Runs
+*(Your Wednesday workouts in Phases 2 & 3)*
+
+- **Purpose:** Improve lactate threshold, so you can hold a faster pace for longer
+- **Feel:** "Comfortably hard." You can speak only in short phrases (2-3 words at a time)
+- **Karvonen Zone:** 80-90% of Heart Rate Reserve
+- **Your BPM Range:** **161 - 173 BPM**
+
+### Interval Sessions
+*(Your 1km repeats)*
+
+- **Purpose:** Improve VO2 Max and running economy
+
+**The Hard Effort (1km):**
+- **Feel:** Hard effort. Uncomfortable, breathing heavily. Speaking is not possible
+- **Karvonen Zone:** 90-95% of Heart Rate Reserve
+- **Your BPM Range:** **173 - 182 BPM**
+
+**The Recovery Jog:**
+- **Feel:** Slow and easy to allow your heart rate to come down significantly
+- **Your BPM Range:** Should drop back down to your **Easy range (137-149 BPM)** or even lower
+
+### Shakeout Runs
+*(Your Friday runs)*
+
+- **Purpose:** Promote blood flow and recovery. These should be *very* easy
+- **Your BPM Range:** Stick to the lower end of your **Easy range, even 130-140 BPM**
+
+---
+
+## Quick-Reference BPM Chart
+
+| Run Type | Feel | Your BPM Range (Karvonen) | % of Est. Max HR (189) |
+|----------|------|---------------------------|------------------------|
+| **Easy / Recovery** | Conversational | **137 - 149** | 65-75% |
+| **Long Run** | Steady, Conversational | **149 - 161** | 75-80% |
+| **Tempo Run** | Comfortably Hard | **161 - 173** | 80-85% |
+| **Intervals (Hard)** | Hard, Breathless | **173 - 182** | 85-90% |
+| **Intervals (Recovery)** | Slow Jog | **137 - 149** | 65-75% |

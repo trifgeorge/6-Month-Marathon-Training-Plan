@@ -16,7 +16,7 @@
 | 2     | Rest  | ~~5km easy~~ | Rest  | ~~7km easy~~ | Rest  | ~~10km long~~  | Rest  | 22km  |
 | 3     | Rest  | ~~6km easy~~ | Rest  | ~~8km easy~~ | Rest  | ~~11km long~~  | Rest  | 25km  |
 | 4     | Rest  | ~~5km easy~~ | Rest  | ~~6km easy~~ | Rest  | ~~9km long~~   | Rest  | 20km ⭐|
-| 5     | Rest  | 6km easy | Rest  | 9km easy | Rest  | 13km long  | Rest  | 28km  |
+| 5     | Rest  | ~~6km easy~~ | Rest  | ~~9km easy~~ | Rest  | 13km long  | Rest  | 28km  |
 | 6     | Rest  | 7km easy | Rest  | 10km easy| Rest  | 15km long  | Rest  | 32km  |
 | 7     | Rest  | 7km easy | Rest  | 11km easy| Rest  | 17km long  | Rest  | 35km  |
 | 8     | Rest  | 6km easy | Rest  | 8km easy | Rest  | 14km long  | Rest  | 28km ⭐|

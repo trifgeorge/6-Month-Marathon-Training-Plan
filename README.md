@@ -30,8 +30,8 @@
 |-------|-------|-------------|----------------|-------|--------------|------------|-------|-------|
 | 9     | Rest  | ~~7km easy~~    | ~~10km tempo~~     | Rest  | 3km shakeout | ~~18km long~~  | Rest  | 38km  |
 | 10    | Rest  | ~~8km easy~~    | ~~11km tempo~~     | Rest  | 3km shakeout | ~~20km long~~  | Rest  | 42km  |
-| 11    | Rest  | ~~8km easy~~    | ~~5x1km intervals~~| Rest  | 3km shakeout | 22km long  | Rest  | 45km  |
-| 12    | Rest  | 7km easy    | 10km easy      | Rest  | 2km shakeout | ~~16km long~~  | Rest  | 35km ⭐|
+| 11    | Rest  | ~~8km easy~~    | ~~5x1km intervals~~| Rest  | 3km shakeout | ~~22km long~~  | Rest  | 45km  |
+| 12    | Rest  | ~~7km easy    | ~~10km easy~~      | Rest  | 2km shakeout | ~~16km long~~  | Rest  | 35km ⭐|
 | 13    | Rest  | 8km easy    | 12km tempo     | Rest  | 4km shakeout | 24km long  | Rest  | 48km  |
 | 14    | Rest  | 8km easy    | 6x1km intervals| Rest  | 5km shakeout | 26km long  | Rest  | 52km  |
 | 15    | Rest  | 9km easy    | 13km tempo     | Rest  | 5km shakeout | 28km long  | Rest  | 55km  |

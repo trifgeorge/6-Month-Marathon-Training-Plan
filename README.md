@@ -33,8 +33,8 @@
 | 11    | Rest  | ~~8km easy~~    | ~~5x1km intervals~~| Rest  | 3km shakeout | ~~22km long~~  | Rest  | 45km  |
 | 12    | Rest  | ~~7km easy~~    | ~~10km easy~~      | Rest  | 2km shakeout | ~~16km long~~  | Rest  | 35km ⭐|
 | 13    | Rest  | ~~8km easy~~    | ~~12km tempo~~     | Rest  | 4km shakeout | ~~24km long~~  | Rest  | 48km  |
-| 14    | Rest  | ~~8km easy~~    | ~~6x1km intervals~~| Rest  | 5km shakeout | 26km long  | Rest  | 52km  |
-| 15    | Rest  | 9km easy    | 13km tempo     | Rest  | 5km shakeout | 28km long  | Rest  | 55km  |
+| 14    | Rest  | ~~8km easy~~    | ~~6x1km intervals~~| Rest  | 5km shakeout | ~~26km long~~  | Rest  | 52km  |
+| 15    | Rest  | ~~9km easy~~    | 13km tempo     | Rest  | 5km shakeout | 28km long  | Rest  | 55km  |
 | 16    | Rest  | 8km easy    | 10km easy      | Rest  | 4km shakeout | 20km long  | Rest  | 42km ⭐|
 
 *Tempo Run:* Run at "comfortably hard" pace (you can speak a few words but not hold a conversation). About 85-90% of max heart rate.  

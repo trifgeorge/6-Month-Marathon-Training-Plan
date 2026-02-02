@@ -44,7 +44,7 @@
 
 | Week | Mon  | Tue         | Wed                | Thu  | Fri          | Sat         | Sun  | Total    |
 |-------|------|-------------|--------------------|------|--------------|-------------|------|----------|
-| 17    | Rest | 9km easy    | 14km tempo (10km @ tempo) | Rest | 5km shakeout | 30km long   | Rest | 58km     |
+| 17    | Rest | 9km easy    | 14km tempo (10km @ tempo) | Rest | 5km shakeout | ~~30km long~~   | Rest | 58km     |
 | 18    | Rest | 10km easy   | 8x1km intervals    | Rest | 6km shakeout | 32km long   | Rest | 62km 🏆  |
 | 19    | Rest | 10km easy   | 14km tempo (10km @ tempo) | Rest | 6km shakeout | 30km long   | Rest | 60km     |
 | 20    | Rest | 8km easy    | 12km easy          | Rest | 4km shakeout | 24km long   | Rest | 48km ⭐  |

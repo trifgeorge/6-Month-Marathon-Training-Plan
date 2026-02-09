@@ -35,7 +35,7 @@
 | 13    | Rest  | ~~8km easy~~    | ~~12km tempo~~     | Rest  | 4km shakeout | ~~24km long~~  | Rest  | 48km  |
 | 14    | Rest  | ~~8km easy~~    | ~~6x1km intervals~~| Rest  | 5km shakeout | ~~26km long~~  | Rest  | 52km  |
 | 15    | Rest  | ~~9km easy~~    | ~~13km tempo~~     | Rest  | 5km shakeout | ~~28km long~~  | Rest  | 55km  |
-| 16    | Rest  | 8km easy    | 10km easy      | Rest  | 4km shakeout | 20km long  | Rest  | 42km ⭐|
+| 16    | Rest  | ~~8km easy~~    | ~~10km easy~~      | Rest  | 4km shakeout | ~~20km long~~  | Rest  | 42km ⭐|
 
 *Tempo Run:* Run at "comfortably hard" pace (you can speak a few words but not hold a conversation). About 85-90% of max heart rate.  
 *Intervals:* Run hard for 1km, recover for 2-3 minutes at easy jog, repeat.
@@ -44,7 +44,7 @@
 
 | Week | Mon  | Tue         | Wed                | Thu  | Fri          | Sat         | Sun  | Total    |
 |-------|------|-------------|--------------------|------|--------------|-------------|------|----------|
-| 17    | Rest | 9km easy    | 14km tempo (10km @ tempo) | Rest | 5km shakeout | ~~30km long~~   | Rest | 58km     |
+| 17    | Rest | ~~9km easy~~    | 14km tempo (10km @ tempo) | Rest | 5km shakeout | ~~30km long~~   | Rest | 58km     |
 | 18    | Rest | 10km easy   | 8x1km intervals    | Rest | 6km shakeout | 32km long   | Rest | 62km 🏆  |
 | 19    | Rest | 10km easy   | 14km tempo (10km @ tempo) | Rest | 6km shakeout | 30km long   | Rest | 60km     |
 | 20    | Rest | 8km easy    | 12km easy          | Rest | 4km shakeout | 24km long   | Rest | 48km ⭐  |

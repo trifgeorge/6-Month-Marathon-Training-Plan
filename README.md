@@ -1,3 +1,5 @@
+
+#STATUS = ✅
 # 26-Week Marathon Training Plan
 
 ## Overview

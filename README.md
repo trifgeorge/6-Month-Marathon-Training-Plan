@@ -1,5 +1,6 @@
 
 # STATUS = ✅
+# [https://marathonview.com/search?query=George%20Trif](https://marathonview.com/search?query=George%20Trif)
 # 26-Week Marathon Training Plan
 
 ## Overview
